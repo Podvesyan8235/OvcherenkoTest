@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\user\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\user\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\user\source\repos\Test\Test\bin\Debug\InspectorLib.dll
+C:\Users\user\source\repos\Test\Test\bin\Debug\InspectorLib.pdb
+C:\Users\user\source\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\user\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\user\source\repos\Test\Test\obj\Debug\Test.pdb
